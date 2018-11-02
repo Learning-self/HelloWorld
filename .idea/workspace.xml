@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77364c09-bb4e-4397-b346-81ac4fab5ba3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="541990693">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="26" />
+          <entry key="md" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="11084" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11084" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloWorld" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BufferedReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ScannerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SuperSubTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BufferedReaderTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileStreamTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringBufferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DirList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="832">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MusicCompound.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FilterFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="This Class" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Employee.java" />
+        <option value="$PROJECT_DIR$/src/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/PrimitiveType.java" />
+        <option value="$PROJECT_DIR$/src/ForTest.java" />
+        <option value="$PROJECT_DIR$/src/FormatTest.java" />
+        <option value="$PROJECT_DIR$/src/StringBufferTest.java" />
+        <option value="$PROJECT_DIR$/src/GregorianCalendarTest.java" />
+        <option value="$PROJECT_DIR$/src/RegexMatches.java" />
+        <option value="$PROJECT_DIR$/src/RegexMatches2.java" />
+        <option value="$PROJECT_DIR$/src/RegexMatches3.java" />
+        <option value="$PROJECT_DIR$/src/Args.java" />
+        <option value="$PROJECT_DIR$/src/FinalizationTest.java" />
+        <option value="$PROJECT_DIR$/src/BufferedReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/BufferedReaderTest2.java" />
+        <option value="$PROJECT_DIR$/src/WriteTest.java" />
+        <option value="$PROJECT_DIR$/src/FileStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/FileStreamTest2.java" />
+        <option value="$PROJECT_DIR$/src/DirList.java" />
+        <option value="$PROJECT_DIR$/src/MusicCompound.java" />
+        <option value="$PROJECT_DIR$/src/FilterFile.java" />
+        <option value="$PROJECT_DIR$/src/ScannerTest.java" />
+        <option value="$PROJECT_DIR$/src/SuperSubTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="23" />
+    <option name="width" value="1110" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SuperSubTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SuperSubTest">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Args" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Args" />
+      <module name="HelloWorld" />
+      <option name="PROGRAM_PARAMETERS" value="this is a test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BufferedReaderTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BufferedReaderTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BufferedReaderTest2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BufferedReaderTest2" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DirList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DirList" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dog" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Dog" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FileStreamTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileStreamTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FileStreamTest2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileStreamTest2" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FilterFile" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FilterFile" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FinalizationTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FinalizationTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ForTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ForTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FormatTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FormatTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GregorianCalendarTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GregorianCalendarTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MusicCompound" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MusicCompound" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrimitiveType" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveType" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegexMatches" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RegexMatches" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegexMatches2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RegexMatches2" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegexMatches3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RegexMatches3" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StringBufferTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StringBufferTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperSubTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SuperSubTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WriteTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WriteTest" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.EmployeeTest" />
+      <item itemvalue="Application.PrimitiveType" />
+      <item itemvalue="Application.ForTest" />
+      <item itemvalue="Application.FormatTest" />
+      <item itemvalue="Application.StringBufferTest" />
+      <item itemvalue="Application.GregorianCalendarTest" />
+      <item itemvalue="Application.RegexMatches" />
+      <item itemvalue="Application.RegexMatches2" />
+      <item itemvalue="Application.RegexMatches3" />
+      <item itemvalue="Application.Args" />
+      <item itemvalue="Application.FinalizationTest" />
+      <item itemvalue="Application.BufferedReaderTest" />
+      <item itemvalue="Application.BufferedReaderTest2" />
+      <item itemvalue="Application.WriteTest" />
+      <item itemvalue="Application.FileStreamTest" />
+      <item itemvalue="Application.FileStreamTest2" />
+      <item itemvalue="Application.DirList" />
+      <item itemvalue="Application.MusicCompound" />
+      <item itemvalue="Application.FilterFile" />
+      <item itemvalue="Application.ScannerTest" />
+      <item itemvalue="Application.SuperSubTest" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5390946" visible="true" weight="0.14375" />
+      <window_info id="Structure" order="1" sideWeight="0.46090534" side_tool="true" weight="0.14375" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010846" side_tool="true" weight="0.14552239" />
+      <window_info id="设计器" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921812" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32921812" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/ForTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GregorianCalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegexMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegexMatches2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegexMatches3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Args.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimitiveType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalizationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WriteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileStreamTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferedReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferedReaderTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringBufferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MusicCompound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FilterFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SuperSubTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
