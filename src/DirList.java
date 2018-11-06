@@ -9,7 +9,7 @@ public class DirList {
     public static void main(String[] args) {
         String dirname = "./";
 
-        DirList.listDir(dirname);
+        listDir(dirname);
     }
 
     public static void listDir(String dirname) {
